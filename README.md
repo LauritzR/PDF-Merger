@@ -1,5 +1,5 @@
 # PDF-Merger
-A python script to merge concatenate PDFs. Can be used for e-books, lecture slides etc.
+A python script for concatenating PDFs. Can be used for e-books, lecture slides etc.
 
 ## How to use
 Put all your PDF files in one directory. <br>
