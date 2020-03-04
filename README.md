@@ -8,5 +8,3 @@ You can specify the path to a directory using `-p`. If you don't, the current di
 Use `-t` to sort by time.<br>
 Use `-desc`for descending order <br>
 The output will be given as result.pdf in the same directory as pdf_merger.py.
-
-! The files should be in alpabetical order (ideally first file "01filename.pdf" and so on) !
